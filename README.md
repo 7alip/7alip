@@ -17,6 +17,7 @@
     alt="Vite 2"
     src="https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white"
   />
+  
   <img
     alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white"
@@ -33,10 +34,7 @@
     alt="Sass"
     src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white"
   />
-  <img
-    alt="Styled Components"
-    src="https://img.shields.io/badge/-Styled_Components-db7092?logo=styled-components&logoColor=white"
-  />
+  
   <img
     alt="Chakra UI"
     src="https://img.shields.io/badge/-ChakraUI-teal?logo=ChakraUI&logoColor=white"
@@ -48,6 +46,10 @@
   <img
     alt="Strapi"
     src="https://img.shields.io/badge/-Strapi-1d1b84?logo=strapi&logoColor=white"
+  />
+  <img
+    alt="Hasura"
+    src="https://img.shields.io/badge/-Hasura-1EB4D4?logo=hasura&logoColor=white"
   />
 </p>
 
