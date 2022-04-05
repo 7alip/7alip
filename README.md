@@ -17,6 +17,10 @@
     alt="Vite 2"
     src="https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white"
   />
+  <img
+    alt="Vue"
+    src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff"
+  />
   
   <img
     alt="TypeScript"
